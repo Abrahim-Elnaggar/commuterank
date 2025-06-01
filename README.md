@@ -6,7 +6,7 @@
 
 Our application empowers users by providing a **reliability score** for the nearest T station to each apartment location they’re considering. This ensures that users don’t mistakenly assume all T lines are equally dependable, helping them avoid unexpected delays and choose a location that best suits their commuting needs.
 
-## 📊 Dataset
+## Dataset
 
 We utilize the [MBTA Bus, Commuter Rail, & Rapid Transit Reliability dataset](https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-commuter-rail-rapid-transit-reliability/explore), a public dataset updated monthly by the MBTA.
 
@@ -21,7 +21,7 @@ We utilize the [MBTA Bus, Commuter Rail, & Rapid Transit Reliability dataset](ht
 
 This dataset allows us to generate **reliable, data-backed probability scores** for each station based on historical performance.
 
-## ⚙️ Functionality
+## Functionality
 
 The core features of CommuteRank include:
 
@@ -37,7 +37,7 @@ The core features of CommuteRank include:
 4. **Ranking:**  
    All entered apartment locations are then ranked by the reliability of their nearest T station, helping users prioritize locations with dependable commutes.
 
-## 🎯 Purpose
+## Purpose
 
 The goal of CommuteRank is to **streamline the apartment-hunting process** in Boston by integrating a vital but often overlooked factor — **transit reliability**.
 
