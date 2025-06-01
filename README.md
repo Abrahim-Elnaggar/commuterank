@@ -1,6 +1,6 @@
 # CommuteRank
 
-## 🏙️ Project Overview
+## Project Overview
 
 **CommuteRank** is a web application designed to help apartment seekers in Boston make informed decisions based on **public transit reliability**, specifically focusing on the **MBTA T line**. While many apartment listings emphasize proximity to subway stations, they often overlook a crucial factor — **how reliable those lines actually are**.
 
